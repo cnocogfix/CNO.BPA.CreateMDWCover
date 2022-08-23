@@ -1,0 +1,9 @@
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\CNO.BPA.CreateMDWCover.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\CNO.BPA.CreateMDWCover.pdb
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\Emc.InputAccel.ScriptEngine.Scripting.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\log4net.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\log4net.xml
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\Debug\CNO.BPA.CreateMDWCover.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\Debug\CNO.BPA.CreateMDWCover.pdb

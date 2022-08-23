@@ -1,0 +1,31 @@
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Release\CNO.BPA.CreateMDWCover.dll.config
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Release\CNO.BPA.CreateMDWCover.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Release\CNO.BPA.CreateMDWCover.pdb
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Release\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Release\Emc.InputAccel.ScriptEngine.Scripting.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Release\log4net.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Release\log4net.xml
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\Release\CNO.BPA.CreateMDWCover.dll
+C:\Documents and Settings\cdpeha\My Documents\Visual Studio 2008\Projects\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\Release\CNO.BPA.CreateMDWCover.pdb
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\CNO.BPA.CreateMDWCover.dll.config
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\CNO.BPA.CreateMDWCover.dll
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\CNO.BPA.CreateMDWCover.pdb
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\Emc.InputAccel.CaptureClient.dll
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\Emc.InputAccel.QuickModule.ClientScriptingInterface.dll
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\Emc.InputAccel.CaptureClient.xml
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.csprojResolveAssemblyReference.cache
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.dll
+\\JK-DESKTOP\Users\Jaekwang\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.pdb
+C:\Users\jaekwang.seo\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\CNO.BPA.CreateMDWCover.dll.config
+C:\Users\jaekwang.seo\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\CNO.BPA.CreateMDWCover.dll
+C:\Users\jaekwang.seo\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\bin\Release\CNO.BPA.CreateMDWCover.pdb
+C:\Users\jaekwang.seo\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.csprojResolveAssemblyReference.cache
+C:\Users\jaekwang.seo\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.dll
+C:\Users\jaekwang.seo\Dropbox\Captiva - Jae\CNO\CNO IA Implementation\IA Client Scripts - dev\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.pdb
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.dll.config
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.dll
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.pdb
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.dll
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\Release\CNO.BPA.CreateMDWCover.pdb

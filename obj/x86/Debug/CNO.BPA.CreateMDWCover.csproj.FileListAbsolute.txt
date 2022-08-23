@@ -1,0 +1,21 @@
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.dll.config
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.dll
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.pdb
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\x86\Debug\CNO.BPA.CreateMDWCover.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\x86\Debug\CNO.BPA.CreateMDWCover.dll
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\x86\Debug\CNO.BPA.CreateMDWCover.pdb
+D:\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.csproj.AssemblyReference.cache
+D:\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.csproj.CoreCompileInputs.cache
+D:\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.dll
+D:\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.csproj.AssemblyReference.cache
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.csproj.CoreCompileInputs.cache
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\CNO.BPA.CreateMDWCover.dll.config
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\CNO.BPA.CreateMDWCover.dll
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\CNO.BPA.CreateMDWCover.pdb
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\log4net.dll
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\Emc.InputAccel.CaptureClient.xml
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\bin\Debug\log4net.xml
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.csproj.CopyComplete
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.dll
+D:\7.1 Files\BPA.net\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover\obj\x86\Debug\CNO.BPA.CreateMDWCover.pdb

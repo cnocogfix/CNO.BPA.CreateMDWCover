@@ -1,0 +1,6 @@
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.dll.config
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.dll
+D:\CaptureSystem\CNO Captiva Capture System\bin\CNO.BPA.CreateMDWCover.pdb
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\x86\Debug\CNO.BPA.CreateMDWCover.csprojResolveAssemblyReference.cache
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\x86\Debug\CNO.BPA.CreateMDWCover.dll
+D:\Source\CNO.BPA.CreateMDWCover\trunk\CNO.BPA.CreateMDWCover - New\obj\x86\Debug\CNO.BPA.CreateMDWCover.pdb
